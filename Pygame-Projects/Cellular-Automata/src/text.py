@@ -5,7 +5,7 @@ class Text:
         self.x = x
         self.y = y
         self.value = value
-        self.font = pygame.font.Font("assets/font.ttf", 25)
+        self.font = pygame.font.Font("Pygame-Projects/Cellular-Automata/assets/font.ttf", 25)
 
         self.color = (255, 255, 255)
 

@@ -7,6 +7,9 @@ A cross between 2048 and Tetris, made more as a proof-of-concept game idea than 
 # Calculator
 A simple calculator, that performs addition, subtraction, multiplication and division.
 
+# Cellular-Automata
+2D Cellular Automata(Conway's Game of Life) where user can define the starting state.
+
 # Games
 Finished Playable Games, which are:
 
